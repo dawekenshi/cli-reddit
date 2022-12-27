@@ -1,0 +1,14 @@
+{
+  "name": "cli-reddit",
+  "version": "1.0.0",
+  "description": "This is my first attempt to create a cli app",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "dawekenshi",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
